@@ -18,7 +18,7 @@ const useIssue = () => {
       dispatch(getMoreIssues(ref.current));
     }
   };
-
+  const loading = status === "loading";
   return { issueList, fetchIssues, fetchMoreIssues, status };
 };
 export default useIssue;

@@ -1,5 +1,5 @@
 import IssueItem from "../components/IssueItem";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import { useSelector } from "react-redux";
 import { useNavigate, useParams } from "react-router-dom";
