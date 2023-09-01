@@ -3,7 +3,8 @@
 - 해당 repository는 원티드 프리온보딩 프론트엔트 인턴쉽 12차 2주차 과제을 다뤘습니다.
 - 프리온보딩 선발과제인 todo를 팀원들과 상의해 각 기능의 Best Practice를 도출하고 합친 결과물입니다.
 
-## 프로젝트 실행 영상
+## 배포 링크
+https://n-github-issue-list.netlify.app/
 
 
 
