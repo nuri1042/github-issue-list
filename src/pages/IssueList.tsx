@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useLayoutEffect } from "react";
+import { useEffect } from "react";
 import Advertisement from "../components/Advertisement";
 import IssueListInfo from "../components/IssueListInfo";
 import LoadSpin from "../components/LoadSpin";
@@ -18,8 +18,6 @@ function IssueList() {
         fetchMoreIssues();
       }
     });
-
-    console.log("scroll");
   };
 
   useEffect(() => {
